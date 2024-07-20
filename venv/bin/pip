@@ -1,4 +1,4 @@
-#!/Users/atharv14/Desktop/Roulettech/weather_backend/venv/bin/python3.12
+#!/Users/atharv14/Desktop/Roulettech-assignment/weather_backend/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
